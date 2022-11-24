@@ -1,6 +1,6 @@
 # NEST WECHAT OPEN API
 
-基于 wechat-open-api 封装用于 nestjs 的微信生态服务端接口，完善中
+基于 wechat-open-api 封装用于 nestjs 的微信生态服务端接口
 
 
 ## 使用
