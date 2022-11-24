@@ -1,0 +1,5 @@
+export * from './app.module'
+export * from './wechat.interface'
+export * from './app.service'
+export * from './official-account.module'
+export * from './official-account.service'
