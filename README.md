@@ -1,6 +1,6 @@
-# NEST WECHAT OPEN API
+# NESTJS WECHAT OPEN API
 
-基于 wechat-open-api 封装用于 nestjs 的微信生态服务端接口
+基于 [wechat-open-api](https://github.com/wytxer/wechat-open-api) 封装用于 nestjs 的微信生态服务端接口
 
 
 ## 使用
@@ -8,7 +8,7 @@
 导入模块：
 
 ```ts
-import { WechatAppModule } from 'nest-wechat-open-api'
+import { WechatAppModule } from 'nestjs-wechat-open-api'
 
 @Module({
   imports: [
@@ -20,7 +20,7 @@ import { WechatAppModule } from 'nest-wechat-open-api'
 使用：
 
 ```ts
-import { WechatAppService } from 'nest-wechat-open-api'
+import { WechatAppService } from 'nestjs-wechat-open-api'
 
 @Injectable()
 export class UserService {

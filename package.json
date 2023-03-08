@@ -1,6 +1,6 @@
 {
-  "name": "nest-wechat-open-api",
-  "version": "0.1.0",
+  "name": "nestjs-wechat-open-api",
+  "version": "0.1.2",
   "description": "基于 wechat-open-api 封装用于 nestjs 的微信生态服务端接口",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "reflect-metadata": "^0.1.13",
-    "wechat-open-api": "^0.1.0"
+    "wechat-open-api": "0.1.1"
   },
   "devDependencies": {
     "@nestjs/common": "^9.1.2",
@@ -45,7 +45,7 @@
     "node": ">=16"
   },
   "license": "MIT",
-  "homepage": "https://github.com/wytxer/nest-wechat-open-api/#readme",
+  "homepage": "https://github.com/wytxer/nestjs-wechat-open-api/#readme",
   "keywords": [
     "nest",
     "nestjs",
@@ -64,9 +64,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wytxer/nest-wechat-open-api.git"
+    "url": "https://github.com/wytxer/nestjs-wechat-open-api.git"
   },
   "bugs": {
-    "url": "https://github.com/wytxer/nest-wechat-open-api/issues"
+    "url": "https://github.com/wytxer/nestjs-wechat-open-api/issues"
   }
 }
