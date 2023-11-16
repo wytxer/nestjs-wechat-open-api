@@ -1,6 +1,6 @@
 {
   "name": "nestjs-wechat-open-api",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "基于 wechat-open-api 封装用于 nestjs 的微信生态服务端接口",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "reflect-metadata": "^0.1.13",
-    "wechat-open-api": "0.1.1"
+    "wechat-open-api": "^0.1.10"
   },
   "devDependencies": {
     "@nestjs/common": "^9.1.2",
